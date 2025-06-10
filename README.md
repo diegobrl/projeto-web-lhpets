@@ -25,9 +25,3 @@ Ideal para demonstrar habilidades em lógica de programação, arquitetura de so
 - Persistência em banco de dados local
 
 ---
-
-## 🖥️ Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/diegobrl/controle-de-clientes.git 
